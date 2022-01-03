@@ -1,0 +1,7 @@
+[mod]
+title: Kardel Sharpeye, The Sniper: by BugoMan
+description:#============================\n-Credits: Paul for the "Piercing Projectile" projectile assets.\n==============================================\n-And also there's two versions: the Unrestricted & Restricted, play the Mod and you'll know it.\n-Since you didn't read the README file, heres the text:\n-*Bugs: Theres a bug that when two "Snipers" met and attacked each other, they'll get somehow "teleported" to the other side of the map 'RANDOMLY'..\n-and Also once you get closer to the Shrapnel Crater, you'll get stuck for eternity, unless a "bug" again happens..\n-which you'll get "teleported" again to the other side of the Map.
+
+tags: Sniper [Rusted Warfare Version]
+
+thumbnail: root/thumb.png
